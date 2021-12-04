@@ -77,8 +77,7 @@ Wenn du mehr über GRAV lesen möchtest, schau dir den Link an - [Was ist Grav?]
 
 # Und was jetzt?
 
-Wie wir im [Fazit](#fazit) erwähnt haben, ist unser Plan, alle zwei Wochen oder wöchentlich News zu veröffentlichen.   
-Damit du unsere News nach Belieben verfolgen kannst, haben wir einige Accounts in den sozialen Medien eingerichtet. Du findest die Links in der grauen Box, oben rechts oder unter den News, je nachdem, wie dein Gerät/deine Auflösung eingestellt ist.  
+Wir sind dabei, einige weitere Konten für soziale Medien einzurichten, damit du unsere Nachrichten nach Belieben verfolgen kannst. Du findest die Links in der grauen Box oben rechts oder unter den Nachrichten, je nach Einstellung deines Geräts oder deiner Auflösung.
   
 @reddit followers
 Nicht jeder Artikel wird in unserem Subreddit veröffentlicht. Da die Regeln nicht dazu gedacht sind, für sich selbst zu werben, werden wir nur Informationen über den Datenschutz und andere Dinge posten, ohne unsere Nachrichten/Blogs zu erwaehnen. Das bedeutet, dass alle Änderungen an TECH SAVIOURS nur auf den anderen Kanälen erscheinen werden.   
