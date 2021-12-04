@@ -8,8 +8,8 @@ taxonomy:
 media_order: 'ts&grav.png'
 aura:
     author: dan
-date: '01-12-2021 09:37'
-published: false
+date: '04-12-2021 12:40'
+published: true
 ---
 
 Wir freuen uns sehr, unseren neuen News-Bereich zu veröffentlichen!
