@@ -7,7 +7,7 @@ surround: authorzo
 image: org-favicon-white-background.png
 social:
     -
-        icon: 'fab fa-mastodon'
+        icon: mastodon
         url: 'https://fosstodon.org/@techsaviours'
     -
         icon: matrix-org
