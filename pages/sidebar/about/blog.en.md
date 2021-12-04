@@ -10,8 +10,8 @@ social:
         icon: 'fab fa-mastodon'
         url: 'https://fosstodon.org/@techsaviours'
     -
-        icon: 'fas fa-rss'
-        url: 'https://www.facebook.com/tech-saviours-nz'
+        icon: matrix-org
+        url: 'https://chat.techsaviours.org/#/room/#news:techsaviours.org'
     -
         icon: facebook
         url: 'https://www.facebook.com/tech-saviours-nz'
