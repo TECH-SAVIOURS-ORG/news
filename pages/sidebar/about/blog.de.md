@@ -7,20 +7,17 @@ surround: authorzo
 image: org-favicon-white-background.png
 social:
     -
-        icon: 'fab fa-mastodon'
+        icon: mastodon
         url: 'https://fosstodon.org/@techsaviours'
     -
-        icon: 'fas fa-rss'
-        url: 'https://www.facebook.com/tech-saviours-nz'
+        icon: matrix-org
+        url: 'https://chat.techsaviours.org/#/room/#news:techsaviours.org'
     -
-        icon: facebook
-        url: 'https://www.facebook.com/tech-saviours-nz'
+        icon: reddit
+        url: 'https://www.reddit.com/r/TECHSAVIOURS_ORG/'
     -
         icon: twitter
-        url: 'https://twitter.com/techsaviours_nz'
-    -
-        icon: youtube
-        url: 'https://www.youtube.com/channel/UCZt-OPPHkVrMl-k0cEKaGgQ'
+        url: 'https://twitter.com/techsavioursorg'
 media_order: org-favicon-white-background.png
 ---
 
