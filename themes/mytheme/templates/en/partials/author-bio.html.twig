@@ -6,6 +6,7 @@
         'facebook',
         'instagram',
         'pinterest',
+        'website',
         'envelope',
         'mastodon',
         'matrix-org',
@@ -32,7 +33,6 @@
             {% for item in social %}
                 {% set href = author['person-' ~ item ~ '-url'] %}
                 {% if href %}
-                    {# <li><a href="{{ href }}" target="_blank"><span class="aura-icon-{{ item }}"></span></a></li> #}
                     <li><a href="{{ href }}" target="_blank"><i class="fa fa-{{ item }}"></i></a></li>
                 {% endif %}
             {% endfor %}
@@ -44,7 +44,7 @@
             <div class="clear-right"></div>
         </div>
         <div class="author-description">
-            <p>{{ author.description }}</p>
+            <p>{{ author.description.en }}</p>
         </div>
     </div>
 </div>

@@ -61,10 +61,14 @@ form:
           destination: 'user/images'
           accept:
             - image/*
-        .description:
+        .description.en:
           type: textarea
           size: long
-          label: Description
+          label: Description English
+        .description.de:
+          type: textarea
+          size: long
+          label: Description German
         .person-mastodon-url:
           type: text
           size: large
