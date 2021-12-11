@@ -5,6 +5,7 @@ taxonomy:
         - news
     tag:
         - 'TECH SAVIOURS'
+        - GRAV
 media_order: 'ts&grav.png'
 aura:
     author: dan
