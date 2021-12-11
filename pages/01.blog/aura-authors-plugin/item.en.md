@@ -2,8 +2,6 @@
 title: 'Aura Authors Plugin'
 published: false
 taxonomy:
-    category:
-        - news
     tag:
         - GRAV
 ---
