@@ -1,6 +1,8 @@
-# Page Toc Plugin
+# Page Toc Plugin (Anchors + Table of Contents)
 
-The **Page Toc** Plugin is for [Grav CMS](http://github.com/getgrav/grav) that generates a table of contents from a page's HTML header tags. With version `3.0` this plugin is also able to automatically generate anchor links with hover-click capability without the need for other plugins or even the table of contents functionality.
+The **Page Toc** Plugin is for [Grav CMS](http://github.com/getgrav/grav) that generates anchors based on HTML header tags, and can also create a table of contents from those headers.
+
+With version `3.0` this plugin is able to automatically generate anchor links with hover-click capability without the need for other plugins (such as the `anchors` plugin).  This functionality operates independently from the now optional "table of contents" functionality.
 
 ![](assets/page-toc.png)
 
@@ -50,7 +52,7 @@ anchors:                    # Anchor configuration
   slug_prefix:              # A prefix used in front of generated slugs
 ```
 
-You can now have `page-toc` automatically add anchors without there being a table of contents being used, just ensure  `active` to `true`.
+> You can now have `page-toc` automatically add anchors without there being a table of contents being used, just ensure  `active` to `true`.
 
 By default, The plugin is `active` and will add header id attributes anchors for each header level found in a page.  You can set `active: false` and then activate on a page basis by adding this to the page frontmatter:
 
@@ -165,7 +167,7 @@ or via the `toc_items()` function which rather than returning HTML directly retu
 {% endif %}
 ```
 
-The `add_anchors()` twig funtion can take a string or a block of content and automatically adds anchors to any headers found per the configuration for the page, but you can override the start and depth. For example here we have a Twig block but we just want to add anchors to the H2 tags:
+To explictly build a table of contents for a block of content:
 
 ```markdown
 {% block my_content %}
@@ -184,6 +186,27 @@ Integer sed tortor eu ligula interdum rhoncus.
 
 #### Table O' Contents
 {{ toc(block('my_content'), 2, 1) }}
+```
+
+The `add_anchors()` twig funtion can take a string or a block of content and automatically adds anchors to any headers found per the configuration for the page, but you can override the start and depth. For example here we have a Twig block but we just want to add anchors to the H2 tags:
+
+```markdown
+{% block my_content %}
+# Header 1
+
+## Header 1.1
+
+Nullam tempor quis lorem venenatis finibus. Maecenas ut condimentum nibh. Ut sed nisl suscipit metus sollicitudin ornare nec vitae nulla. Integer sed tortor eu ligula interdum rhoncus. Sed pulvinar ut massa et ullamcorper. Curabitur bibendum ante orci, nec porttitor dolor suscipit quis. Nulla et eros enim. 
+
+### Header 1.1.1
+
+Integer sed tortor eu ligula interdum rhoncus.
+
+## Header 1.2
+{% endblock %}
+
+#### Anchors Away!
+{{ add_anchors(block('my_content'), 2, 1) }}
 ```
 
 ### Limiting levels in output

@@ -1,7 +1,7 @@
 name: Page Toc
 type: plugin
 slug: page-toc
-version: 3.1.0
+version: 3.1.3
 description: Generate a table of contents and anchors from a page
 icon: list
 author:
@@ -15,7 +15,7 @@ docs: https://github.com/trilbymedia/grav-plugin-page-toc/blob/develop/README.md
 license: MIT
 
 dependencies:
-    - { name: grav, version: '>=1.7.10' }
+    - { name: grav, version: '>=1.7.26' }
 
 form:
   validation: strict
@@ -70,11 +70,12 @@ form:
             4: H4
             5: H5
             6: H6
+          validate:
+            type: number
         depth:
           type: range
           label: PLUGIN_PAGE_TOC.DEPTH_TOC_HEADERS
           help: PLUGIN_PAGE_TOC.DEPTH_TOC_HEADERS_HELP
-          size: x-small
           classes: fancy
           validate:
             min: 1
@@ -102,10 +103,12 @@ form:
             4: H4
             5: H5
             6: H6
+          validate:
+            type: number
         anchors.depth:
-          type: slider
+          type: range
           label: PLUGIN_PAGE_TOC.DEPTH_ANCHOR_HEADERS
-          size: x-small
+          help: PLUGIN_PAGE_TOC.DEPTH_ANCHOR_HEADERS_HELP
           classes: fancy
           validate:
             min: 1
@@ -159,7 +162,7 @@ form:
           label: PLUGIN_PAGE_TOC.SLUG_MAXLEN
           help: PLUGIN_PAGE_TOC.SLUG_MAXLEN_HELP
           size: x-small
-          deafult: 25
+          default: 25
           append: 'chars'
         anchors.slug_prefix:
           type: text
