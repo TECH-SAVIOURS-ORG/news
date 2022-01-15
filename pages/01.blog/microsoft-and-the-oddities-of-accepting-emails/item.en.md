@@ -67,4 +67,4 @@ There are a couple of options you can try:
 - https://support.microsoft.com/en-us/supportrequestform/8ad563e3-288e-2a61-8122-3ba03d6b8d75
 
 In our particular case, there is nothing we can do. We can only annoy them and send them more emails to finally delete the blocked IP.   
-If you have other ideas, let us know in the comments below or at [fosstodon](https://fosstodon.org/@techsaviours).
+If you have other ideas, let us know at [fosstodon](https://fosstodon.org/web/@techsaviours/107625303213896654).
