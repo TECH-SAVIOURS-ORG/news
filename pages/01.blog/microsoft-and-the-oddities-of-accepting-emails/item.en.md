@@ -7,6 +7,7 @@ taxonomy:
         - server
 aura:
     author: dan
+media_order: 'microsoft-outlook-office_365-undelivered_mail .png'
 ---
 
 # Microsoft and the oddities of accepting emails
