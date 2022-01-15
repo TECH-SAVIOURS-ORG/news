@@ -5,6 +5,9 @@ taxonomy:
         - news
     tag:
         - server
+        - microsoft
+        - email
+        - blacklist
 aura:
     author: dan
 media_order: 'microsoft-outlook-office_365-undelivered_mail .png'
