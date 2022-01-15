@@ -66,5 +66,5 @@ There are a couple of options you can try:
 - https://sender.office.com/
 - https://support.microsoft.com/en-us/supportrequestform/8ad563e3-288e-2a61-8122-3ba03d6b8d75
 
-In our particular case, there is nothing we can do. We can only annoy them and send them more emails to finally delete the blocked IP.   
+In our particular case, there is nothing we can do. We can only annoy them and send them more emails to finally delete the blocked IP. As a workaround, we used a very similar domain with a different email server.  
 If you have other ideas, let us know at [fosstodon](https://fosstodon.org/web/@techsaviours/107625303213896654).
