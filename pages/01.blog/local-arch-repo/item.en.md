@@ -4,16 +4,17 @@ taxonomy:
     category:
         - news
     tag:
+        - arch
         - rsync
         - pine64
         - github
         - backup
         - repository
         - repo
-        - arch
         - pinephone
 aura:
     author: dan
+media_order: arch-locale-repository.png
 ---
 
 Hey
