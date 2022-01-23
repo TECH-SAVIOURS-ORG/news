@@ -1,5 +1,5 @@
 ---
-title: 'Local Arch Repo'
+title: 'Lokales Arch Repo'
 taxonomy:
     category:
         - news
