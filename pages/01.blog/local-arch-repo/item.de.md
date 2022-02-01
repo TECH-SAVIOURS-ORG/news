@@ -15,6 +15,7 @@ taxonomy:
 aura:
     author: dan
 media_order: arch-locale-repository.png
+date: '23-01-2022 18:30'
 ---
 
 Hey
