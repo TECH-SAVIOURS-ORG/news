@@ -7,6 +7,7 @@ taxonomy:
         - news
     tag:
         - tutorials
+        - privacy
         - '#phone'
         - '#android'
         - '#magisk'
@@ -18,9 +19,9 @@ taxonomy:
         - shelter
         - aurora
         - lineage
-        - privacy
 aura:
     author: dan
+media_order: android_privacy.png
 ---
 
 # Our Android section tutorial/guide is ready 🍻 
