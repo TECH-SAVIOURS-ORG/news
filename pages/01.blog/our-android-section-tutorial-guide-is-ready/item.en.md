@@ -8,9 +8,8 @@ taxonomy:
     tag:
         - tutorials
         - privacy
-        - '#phone'
-        - '#android'
-        - '#magisk'
+        - android
+        - magisk
         - fdroid
         - afwall
         - xprivacylua
@@ -19,6 +18,7 @@ taxonomy:
         - shelter
         - aurora
         - lineage
+        - phone
 aura:
     author: dan
 media_order: android_privacy.png
