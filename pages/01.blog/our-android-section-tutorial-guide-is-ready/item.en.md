@@ -22,7 +22,6 @@ taxonomy:
 aura:
     author: dan
 media_order: android_privacy.png
-publish_date: '19-02-2022 20:06'
 ---
 
 # Our Android section tutorial/guide is ready 🍻 
