@@ -11,6 +11,8 @@ taxonomy:
 aura:
     author: dan
 media_order: 'microsoft-outlook-office_365-undelivered_mail .png'
+published: true
+date: '15-01-2022 20:48'
 ---
 
 # Microsoft and the oddities of accepting emails
