@@ -26,6 +26,10 @@ media_order: android_privacy.png
 
 # Our Android section tutorial/guide is ready 🍻 
 
+**Update**: 23.2.22
+We added a few backup solutions for our Android phone/s - https://wiki.techsaviours.org/en/backup/phone.
+
+
 Are you interested in refreshing your old Android phone via a Custom ROM? Using an Android device for your digital privacy ?
 
 We just finished our tutorial/guide for our Android section. 
