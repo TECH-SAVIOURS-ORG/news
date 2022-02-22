@@ -19,6 +19,8 @@ taxonomy:
         - aurora
         - lineage
         - phone
+        - backup
+        - seedvault
 aura:
     author: dan
 media_order: android_privacy.png
