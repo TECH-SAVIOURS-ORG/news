@@ -22,7 +22,7 @@ taxonomy:
         - phone
         - seedvault
 aura:
-    author: dan
+    author: dodi
 ---
 
 Bist du daran interessiert, dein altes Android-Telefon über ein Custom ROM zu aktualisieren? Verwendest du ein Android-Gerät für deine digitale Privatsphäre?
