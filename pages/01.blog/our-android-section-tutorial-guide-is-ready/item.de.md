@@ -21,6 +21,7 @@ taxonomy:
         - lineage
         - phone
         - seedvault
+    author: 'Doris Noelke'
 aura:
     author: dodi
 ---
