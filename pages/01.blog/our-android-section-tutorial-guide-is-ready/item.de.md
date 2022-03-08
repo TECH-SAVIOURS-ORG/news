@@ -8,6 +8,7 @@ taxonomy:
     tag:
         - tutorials
         - privacy
+        - backup
         - android
         - magisk
         - fdroid
@@ -19,10 +20,9 @@ taxonomy:
         - aurora
         - lineage
         - phone
-        - backup
         - seedvault
 aura:
-    author: dodi
+    author: dan
 ---
 
 Bist du daran interessiert, dein altes Android-Telefon über ein Custom ROM zu aktualisieren? Verwendest du ein Android-Gerät für deine digitale Privatsphäre?
