@@ -8,6 +8,8 @@ taxonomy:
         - microsoft
         - email
         - blacklist
+published: true
+date: '15-01-2022 20:47'
 ---
 
 # Microsoft und die Seltsamkeiten bei der Abfertigung von E-Mails
