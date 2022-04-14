@@ -1,7 +1,7 @@
 ---
 title: 'More privacy for your browser (Firefox, Librewolf, Tor, Iceraven & Pale Moon)'
 published: true
-date: '14-04-2022 23:00'
+date: '15-04-2022 11:31'
 taxonomy:
     category:
         - news
