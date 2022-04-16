@@ -6,14 +6,15 @@ taxonomy:
     category:
         - news
     tag:
-        - dnscrypt
         - server
         - desktop
-        - phone
         - android
         - fdroid
+        - phone
+        - dnscrypt
 aura:
     author: dan
+media_order: dnscrypt.png
 ---
 
 Our DNSCrypt server is now part of the official list for [DNSCrypt & DOH Server](https://dnscrypt.info/public-servers/) & [Anonymized DNS relays](https://download.dnscrypt.info/dnscrypt-resolvers/v3/relays.md).
