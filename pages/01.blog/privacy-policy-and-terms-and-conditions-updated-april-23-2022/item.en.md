@@ -9,7 +9,7 @@ taxonomy:
         - 'TECH SAVIOURS'
 aura:
     author: dan
-media_order: org-navbar-logo-black.png
+media_order: techsaviours-black-white_background.png
 ---
 
 We've added/changed a bit our [Privacy Policy](https://techsaviours.org/privacy-policy.html) & [Terms and Conditions](https://techsaviours.org/terms-and-conditions.html).
