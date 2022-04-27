@@ -13,6 +13,7 @@ taxonomy:
         - piped
 aura:
     author: dan
+media_order: piped.jpg
 ---
 
 We have added a new service to our [service section](https://techsaviours.org/#freeservices) called piped.
