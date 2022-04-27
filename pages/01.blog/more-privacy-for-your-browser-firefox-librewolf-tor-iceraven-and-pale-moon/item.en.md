@@ -17,6 +17,9 @@ taxonomy:
 aura:
     author: dan
 media_order: private_browisng.png
+permissions:
+    authors:
+        - 'Daniel Sundermann'
 ---
 
 # Browser
