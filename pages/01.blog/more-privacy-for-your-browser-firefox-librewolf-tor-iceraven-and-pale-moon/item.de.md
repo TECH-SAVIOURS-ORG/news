@@ -15,6 +15,8 @@ taxonomy:
         - iceraven
 aura:
     author: dodi
+author:
+    name: 'Doris Noelke'
 ---
 
 # Browser
