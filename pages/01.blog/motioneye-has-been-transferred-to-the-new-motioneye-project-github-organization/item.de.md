@@ -11,6 +11,8 @@ taxonomy:
         - motion
 aura:
     author: dodi
+author:
+    name: 'Doris Noelke'
 ---
 
 MotionEye hat ein neues Entwicklerteam bekommen. Der ein oder andere kennt die neuen Gesichter im Entwicklerteam vermutlich gut! 
