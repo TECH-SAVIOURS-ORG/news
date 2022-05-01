@@ -13,6 +13,8 @@ taxonomy:
         - dnscrypt
 aura:
     author: dodi
+author:
+    name: 'Doris Noelke'
 ---
 
 Unser DNSCrypt-Server ist jetzt Teil der offiziellen Liste für [DNSCrypt & DOH Server](https://dnscrypt.info/public-servers/) & [Anonymisierte DNS- Relais](https://download.dnscrypt.info/dnscrypt-resolvers/v3/relays.md).
