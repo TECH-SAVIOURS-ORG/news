@@ -1,6 +1,5 @@
 ---
 title: 'Piped - Der neue Dienst ist in Betrieb'
-author: 'Doris Noelke'
 published: true
 date: '01-05-2022 21:19'
 taxonomy:
@@ -13,6 +12,8 @@ taxonomy:
         - piped
 aura:
     author: dodi
+author:
+    name: 'Doris Noelke'
 media_order: piped.jpg
 ---
 
