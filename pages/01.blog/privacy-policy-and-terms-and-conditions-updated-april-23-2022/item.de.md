@@ -1,7 +1,7 @@
 ---
 title: 'Datenschutzerklärung und Allgemeine Geschäftsbedingungen - Aktualisiert am 30. April 2022'
 published: true
-date: '30-05-2022 10:44'
+date: '01-05-2022 10:44'
 taxonomy:
     category:
         - news
