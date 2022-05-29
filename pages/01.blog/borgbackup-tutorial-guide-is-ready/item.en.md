@@ -12,6 +12,7 @@ taxonomy:
         - monitoring
 aura:
     author: dan
+media_order: borgbackup.png
 ---
 
 Hey
