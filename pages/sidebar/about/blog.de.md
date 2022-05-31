@@ -13,9 +13,6 @@ social:
         icon: matrix-org
         url: 'https://chat.techsaviours.org/#/room/#news:techsaviours.org'
     -
-        icon: reddit
-        url: 'https://www.reddit.com/r/TECHSAVIOURS_ORG/'
-    -
         icon: twitter
         url: 'https://twitter.com/techsavioursorg'
 media_order: org-favicon-white-background.png
