@@ -17,6 +17,7 @@ taxonomy:
         - nextcloud
 aura:
     author: dan
+media_order: npm.jpg
 ---
 
 Torsocks, unbound, nginx, php and mariadb. 
