@@ -6,12 +6,13 @@ taxonomy:
     category:
         - news
     tag:
+        - server
         - matrix
         - cleanup
-        - server
         - service
 aura:
     author: dan
+media_order: matrix_rentention-90days_vote.png
 ---
 
  "No news, no new tutorials!?" That's right!
