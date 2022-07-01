@@ -7,17 +7,18 @@ taxonomy:
     category:
         - news
     tag:
+        - privacy
         - socialcooling
         - socialmedia
         - suicide
         - depression
         - facebook
         - instagram
-        - privacy
         - digitalprivacy
         - google
 aura:
     author: dan
+media_order: socialcooling-privacy_is_the_right_to_be_imperfect.png
 ---
 
 # Take a breath! Enjoy your world!
