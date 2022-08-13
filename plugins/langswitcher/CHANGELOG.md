@@ -1,3 +1,18 @@
+# v2.0.1
+## 08/04/2022
+
+1. [](#bugfix)
+   * Fixed exception thrown instead of **404 Page not found** [#66](https://github.com/getgrav/grav-plugin-langswitcher/issues/66)
+
+# v2.0.0
+## 07/25/2022
+
+1. [](#new)
+    * Support for translated slugs!!!! [#50](https://github.com/getgrav/grav-plugin-langswitcher/pull/50)
+    * Require Grav `1.7`
+1. [](#improved)
+    * Improved support for home URL [#59](https://github.com/getgrav/grav-plugin-langswitcher/pull/59)   
+
 # v1.5.0
 ## 07/01/2021
 
