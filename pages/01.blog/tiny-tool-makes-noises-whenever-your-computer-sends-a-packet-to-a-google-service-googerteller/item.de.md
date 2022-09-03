@@ -9,6 +9,7 @@ taxonomy:
         - google
 aura:
     author: dan
+title: 'Winziges Tool macht Geräusche, wenn dein Computer ein Datenpaket an einen Google-Dienst sendet - googerteller'
 ---
 
 Danke an [@bert_hu_bert](https://twitter.com/bert_hu_bert) für sein kleines Programm - googerteller.
