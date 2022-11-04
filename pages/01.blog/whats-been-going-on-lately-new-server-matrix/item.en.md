@@ -12,6 +12,7 @@ taxonomy:
         - 'TECH SAVIOURS'
 aura:
     author: dan
+media_order: 6f7cc26fda75b343c77ad101a25a9e82af4a0ea4-techsaviours-black-whitebackground.png
 ---
 
 # New Server Info
