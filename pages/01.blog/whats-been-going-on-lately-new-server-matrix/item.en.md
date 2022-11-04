@@ -7,9 +7,9 @@ taxonomy:
     category:
         - news
     tag:
-        - 'TECH SAVIOURS'
         - server
         - matrix
+        - 'TECH SAVIOURS'
 aura:
     author: dan
 ---
