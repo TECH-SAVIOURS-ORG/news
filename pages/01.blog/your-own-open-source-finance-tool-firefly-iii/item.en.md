@@ -13,7 +13,7 @@ taxonomy:
         - finance
 aura:
     author: dan
-media_order: 'firefly-iii-logo.png,there_is_no_cloud.jpg,registration.png,getting_started.png,navigation.png,dashboard.png,budget.png,Budget - auto-budget.png,bills.png,piggy_bank.png,piggy_bank2-1.png,creating_a_rule.png,asset_accounts.png,expenses.png,expenses2.png,revenue.png,liabilities.png,reports.png,export_data.png,profile.png,preferences.png,preferences2.png,preferences3.png,currencies.png,administration.png,administration2.png,administration3.png,administration4.png,administration5.png,token.png,data_importer.png,data_importer2.png,data_importer3.png'
+media_order: 'firefly-iii-logo.png,there_is_no_cloud.jpg,registration.png,getting_started.png,navigation.png,dashboard.png,budget.png,bills.png,piggy_bank.png,piggy_bank2-1.png,creating_a_rule.png,asset_accounts.png,expenses.png,expenses2.png,revenue.png,liabilities.png,reports.png,export_data.png,profile.png,preferences.png,preferences2.png,preferences3.png,currencies.png,administration.png,administration2.png,administration3.png,administration4.png,administration5.png,token.png,data_importer.png,data_importer2.png,data_importer3.png,budget2.png'
 ---
 
 # Your own open source finance tool - Firefly III
@@ -158,7 +158,7 @@ Straight forward...
 
 Probably one of the most use budget is for *Groceries*. Give yourself a limit for your weekly/monthly groceries budget. 
 
-[![Budget - auto-budget.png](Budget - auto-budget.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/Budget%20-%20auto-budget.png)
+[![Budget - auto-budget.png](budget2.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/Budget%20-%20auto-budget.png)
 
 The common question will be here which one do you want to choose in `Auto-budget`.
 
