@@ -13,6 +13,7 @@ taxonomy:
         - finance
 aura:
     author: dan
+media_order: firefly-iii-logo.png
 ---
 
 # Your own open source finance tool - Firefly III
