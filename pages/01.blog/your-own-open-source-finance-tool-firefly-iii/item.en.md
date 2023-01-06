@@ -131,12 +131,12 @@ https://docs.firefly-iii.org/
 ## Register a new account
 
 Straight forward...  
-![Registration.png](registration.png)
+[![Registration.png](registration.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/registration.png)
 
 
 ## Getting started
 
-[![Getting_started.png](getting_started.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/registration.png)
+[![Getting_started.png](getting_started.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/getting_started.png)
 
 1. First of all, read the page ;) 
 2. Start with your private bank (Bankname - Your name)
@@ -145,20 +145,20 @@ Straight forward...
 
 
 ## Navigation
-![Navigation.png](navigation.png)
+[![Navigation.png](navigation.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/navigation.png)
 
 
 ### Dashboard
-![Dashboard.png](dashboard.png)
+[![Dashboard.png](dashboard.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/dashboard.png)
 
 
 ### Budgets
 
-![Budget.png](budget.png)
+[![Budget.png](budget.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/budget.png)
 
 Probably one of the most use budget is for *Groceries*. Give yourself a limit for your weekly/monthly groceries budget. 
 
-![Budget - auto-budget.png](Budget - auto-budget.png)
+[![Budget - auto-budget.png](Budget - auto-budget.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/Budget%20-%20auto-budget.png)
 
 The common question will be here which one do you want to choose in `Auto-budget`.
 
@@ -180,7 +180,7 @@ https://docs.firefly-iii.org/firefly-iii/concepts/budgets/
 
 ### Bills
 
-![bills](bills.png)
+[![bills](bills.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/bills.png)
 
 Just add here all fixed costs like mortgage, rent, .....
 
@@ -200,11 +200,11 @@ https://docs.firefly-iii.org/firefly-iii/advanced-concepts/bills/
 
 ### Piggy banks
 
-![piggy_bank](piggy_bank.png)
+[![piggy_bank](piggy_bank.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/piggy_bank.png)
 
 Actually, everything is pretty much self explained, the only "problem" you will come across is how you are going to achieve your goal. If you have a big goal, you may need to add two or even four bank accounts to one goal ("Group"). Having multiple accounts in a "Group" can be a little confusing because you don't know which bank account is which when you "Name" it as your actual goal. I like to use the name of my bank account when I need to add multiple accounts to a "Group". Take a look at the image below.
 
-![piggy_bank2](piggy_bank2-1.png)
+[![piggy_bank2](piggy_bank2-1.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/piggy_bank2-1.png)
 
 So there are 35 euros left (under "Account status") in my main account that I would like to add to the roof repair, but is it the main account?
 
@@ -222,7 +222,7 @@ This does not need to be explained. You will find all your transactions there (e
 
 Now it gets a bit more complicated because there are many things happening at once here. We will more or less only cover the basics here.
 
-![creating_a_rule](creating_a_rule.png)
+[![creating_a_rule](creating_a_rule.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/creating_a_rule.png)
 
 You can create a `Rule group `directly under `Rules`. You can open it in another tab to create it. A rule group could be your main accounts (`Personal`, `Company1`, `Company2`).
 
@@ -265,17 +265,17 @@ You should have also at least 3 accounts:
 
 Here you can change and add more accounts.
 
-![asset_accounts](asset_accounts.png)
+[![asset_accounts](asset_accounts.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/asset_accounts.png)
 
 https://docs.firefly-iii.org/firefly-iii/concepts/accounts/#default-asset-accounts
 
 #### Expense accounts
 
-![expenses](expenses.png)
+[![expenses](expenses.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/expenses.png)
 
 I prefer to keep it simple here. I work more with categories and tags. It is up to you if you want to add all expenses already here or under categories. For example, I only use private and have "grocery shops" as a category and if I want to know how much I spend on a particular store, I have the shop name as a tag. But you can also do it like this:
 
-![expenses2](expenses2.png)
+[![expenses2](expenses2.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/expenses2.png)
 
 Maybe you need a "Expense" already as "Grocery shops" and the specific store as a category and different tags for everything you bought in that store. This way you could track how much milk you bought last year.
 
@@ -285,14 +285,14 @@ https://docs.firefly-iii.org/firefly-iii/concepts/accounts/#expense-accounts
 
 #### Revenue accounts 
 
-![revenue](revenue.png)
+[![revenue](revenue.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/revenue.png)
 
 Actually similar like expenses. You can also use private or if you get a refund from an online store. 
 
 
 ####  Liabilities
 
-![liabilities](liabilities.png)
+[![liabilities](liabilities.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/liabilities.png)
 
 Another good feature if you have given someone money or if you have loans, debts or mortgages to pay. Here you have the possibility to manage them as well.
 
@@ -311,7 +311,7 @@ https://docs.firefly-iii.org/firefly-iii/concepts/groups/
 
 ### Reports
 
-![reports](reports.png)
+[![reports](reports.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/reports.png)
 
 An overview of what your accounts have done. You can select all accounts or only specific accounts. The same goes for categories and tags.
 You can see some charts and other information about your accounts.
@@ -321,7 +321,7 @@ https://docs.firefly-iii.org/firefly-iii/advanced-concepts/reports/
 
 ### Export data
 
-![export_data](export_data.png)
+[![export_data](export_data.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/export_data.png)
 
 I have never used it. So no comment here. Just look at the link below.
 
@@ -335,28 +335,28 @@ Nothing to mention here, really. I will just leave some screenshots below.
 
 #### Profile
 
-![profile](profile.png)    
+[![profile](profile.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/profile.png)
 
 
 #### Preferences
 
-![preferences](preferences.png)  
-![preferences2](preferences2.png)  
-![preferences3](preferences3.png)  
+[![preferences](preferences.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/preferences.png)  
+[![preferences2](preferences2.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/preferences2.png)  
+[![preferences3](preferences3.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/preferences3.png)  
 
 
 #### Currencies
 
-![currencies](currencies.png)  
+[![currencies](currencies.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/currencies.png)  
 
 
 #### Administration
 
-![administration](administration.png)  
-![administration2](administration2.png)  
-![administration3](administration3.png)  
-![administration4](administration4.png)  
-![administration5](administration5.png)  
+[![administration](administration.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/administration.png)  
+[![administration2](administration2.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/administration2.png)  
+[![administration3](administration3.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/administration3.png)  
+[![administration4](administration4.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/administration4.png)  
+[![administration5](administration5.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/administration5.png)  
 
 
 # Data importer
@@ -392,7 +392,7 @@ volumes  :
 
 Go to your http://SERVER_IP:PORT(firefly3)/profile and create a new  access token and name it `Importer` or whatever suits you.
 
-![token](token.png)  
+[![token](token.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/token.png)  
 
 
 ## .fidi.env
@@ -418,18 +418,18 @@ docker compose up -d
 
 Go to http://SERVER_IP:PORT(data-importer). 
 
-![data_importer](data_importer.png)
+[![data_importer](data_importer.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/data_importer.png)
 
 
 ## Import file
 
 Go to your bank and export your transactions to a csv file. 
 
-![data_importer2](data_importer2.png)
+[![data_importer2](data_importer2.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/data_importer2.png)
 
 You can create a configuration file later so that you do not have to keep changing the following information.
 
-![data_importer3](data_importer3.png)
+[![data_importer3](data_importer3.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/data_importer3.png)
 
 I mainly use the default settings. Only "Import tag" and "Date format" are different. But the settings really depend on how your bank exports your transactions. You have to test that a bit yourself. Every bank is different so it makes no sense to put here a reasonable config for all. See the link https://docs.firefly-iii.org/data-importer/usage/configure/#file-options for that while you're setting it up for yourself.
 
