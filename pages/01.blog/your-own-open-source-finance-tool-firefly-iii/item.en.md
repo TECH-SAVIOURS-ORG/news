@@ -13,7 +13,7 @@ taxonomy:
         - finance
 aura:
     author: dan
-media_order: 'firefly-iii-logo.png,there_is_no_cloud.jpg,registration.png'
+media_order: 'firefly-iii-logo.png,there_is_no_cloud.jpg,registration.png,getting_started.png,navigation.png,dashboard.png,budget.png,Budget - auto-budget.png,bills.png,piggy_bank.png,piggy_bank2-1.png,creating_a_rule.png,asset_accounts.png,expenses.png,expenses2.png,revenue.png,liabilities.png,reports.png,export_data.png,profile.png,preferences.png,preferences2.png,preferences3.png,currencies.png,administration.png,administration2.png,administration3.png,administration4.png,administration5.png,token.png,data_importer.png,data_importer2.png,data_importer3.png'
 ---
 
 # Your own open source finance tool - Firefly III
@@ -22,7 +22,7 @@ New year - new opportunities!
 Maybe firefly can help you to reach your goal(s) faster with an easier overview of your finances and your bad and good habits. 
 
 It's open source as usual and covers the privacy part as well.  
-You shouldn't use a [cloud](there_is_no_cloud.jpg) at all if it's not your own, and especially when it comes to your finances. So it has privacy in mind as well.... a quote from the developer:
+You shouldn't use a [cloud](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/there_is_no_cloud.jpg) at all if it's not your own, and especially when it comes to your finances. So it has privacy in mind as well.... a quote from the developer:
 
 > It is completely self-hosted and isolated, and will never contact external servers until you explicitly tell it to.
 
@@ -136,7 +136,7 @@ Straight forward...
 
 ## Getting started
 
-![Getting_started.png](767c0c2d5cc0bf0ee003e9b475979bed.png)
+![Getting_started.png](getting_started.png)
 
 1. First of all, read the page ;) 
 2. Start with your private bank (Bankname - Your name)
@@ -145,20 +145,20 @@ Straight forward...
 
 
 ## Navigation
-![Navigation.png](3c416b33c37e1c1e5f7a16e232d3ffd5.png)
+![Navigation.png](navigation.png)
 
 
 ### Dashboard
-![Dashboard.png](0a8d160ff60ee0b10ff46c13f6356fe7.png)
+![Dashboard.png](dashboard.png)
 
 
 ### Budgets
 
-![Budget.png](f6e4db7283f5ed5fc148ff2aedf80afa.png)
+![Budget.png](budget.png)
 
 Probably one of the most use budget is for *Groceries*. Give yourself a limit for your weekly/monthly groceries budget. 
 
-![Budget - auto-budget.png](d2588f30e8522a5fb76e4ed05641896b.png)
+![Budget - auto-budget.png](Budget - auto-budget.png)
 
 The common question will be here which one do you want to choose in `Auto-budget`.
 
@@ -180,7 +180,7 @@ https://docs.firefly-iii.org/firefly-iii/concepts/budgets/
 
 ### Bills
 
-![bills](../media/bills.png)
+![bills](bills.png)
 
 Just add here all fixed costs like mortgage, rent, .....
 
@@ -200,11 +200,11 @@ https://docs.firefly-iii.org/firefly-iii/advanced-concepts/bills/
 
 ### Piggy banks
 
-![piggy_bank](../media/piggy_bank.png)
+![piggy_bank](piggy_bank.png)
 
 Actually, everything is pretty much self explained, the only "problem" you will come across is how you are going to achieve your goal. If you have a big goal, you may need to add two or even four bank accounts to one goal ("Group"). Having multiple accounts in a "Group" can be a little confusing because you don't know which bank account is which when you "Name" it as your actual goal. I like to use the name of my bank account when I need to add multiple accounts to a "Group". Take a look at the image below.
 
-![piggy_bank2](../media/piggy_bank2-1.png)
+![piggy_bank2](piggy_bank2-1.png)
 
 So there are 35 euros left (under "Account status") in my main account that I would like to add to the roof repair, but is it the main account?
 
@@ -222,7 +222,7 @@ This does not need to be explained. You will find all your transactions there (e
 
 Now it gets a bit more complicated because there are many things happening at once here. We will more or less only cover the basics here.
 
-![creating_a_rule](../media/creating_a_rule.png)
+![creating_a_rule](creating_a_rule.png)
 
 You can create a `Rule group `directly under `Rules`. You can open it in another tab to create it. A rule group could be your main accounts (`Personal`, `Company1`, `Company2`).
 
@@ -265,17 +265,17 @@ You should have also at least 3 accounts:
 
 Here you can change and add more accounts.
 
-![asset_accounts](../media/asset_accounts.png)
+![asset_accounts](asset_accounts.png)
 
 https://docs.firefly-iii.org/firefly-iii/concepts/accounts/#default-asset-accounts
 
 #### Expense accounts
 
-![expenses](../media/expenses.png)
+![expenses](expenses.png)
 
 I prefer to keep it simple here. I work more with categories and tags. It is up to you if you want to add all expenses already here or under categories. For example, I only use private and have "grocery shops" as a category and if I want to know how much I spend on a particular store, I have the shop name as a tag. But you can also do it like this:
 
-![expenses2](../media/expenses2.png)
+![expenses2](expenses2.png)
 
 Maybe you need a "Expense" already as "Grocery shops" and the specific store as a category and different tags for everything you bought in that store. This way you could track how much milk you bought last year.
 
@@ -285,14 +285,14 @@ https://docs.firefly-iii.org/firefly-iii/concepts/accounts/#expense-accounts
 
 #### Revenue accounts 
 
-![revenue](../media/revenue.png)
+![revenue](revenue.png)
 
 Actually similar like expenses. You can also use private or if you get a refund from an online store. 
 
 
 ####  Liabilities
 
-![liabilities](../media/liabilities.png)
+![liabilities](liabilities.png)
 
 Another good feature if you have given someone money or if you have loans, debts or mortgages to pay. Here you have the possibility to manage them as well.
 
@@ -311,7 +311,7 @@ https://docs.firefly-iii.org/firefly-iii/concepts/groups/
 
 ### Reports
 
-![reports](../media/reports.png)
+![reports](reports.png)
 
 An overview of what your accounts have done. You can select all accounts or only specific accounts. The same goes for categories and tags.
 You can see some charts and other information about your accounts.
@@ -321,7 +321,7 @@ https://docs.firefly-iii.org/firefly-iii/advanced-concepts/reports/
 
 ### Export data
 
-![export_data](../media/export_data.png)
+![export_data](export_data.png)
 
 I have never used it. So no comment here. Just look at the link below.
 
@@ -335,28 +335,28 @@ Nothing to mention here, really. I will just leave some screenshots below.
 
 #### Profile
 
-![profile](../media/profile.png)    
+![profile](profile.png)    
 
 
 #### Preferences
 
-![preferences](../media/preferences.png)  
-![preferences2](../media/preferences2.png)  
-![preferences3](../media/preferences3.png)  
+![preferences](preferences.png)  
+![preferences2](preferences2.png)  
+![preferences3](preferences3.png)  
 
 
 #### Currencies
 
-![currencies](../media/currencies.png)  
+![currencies](currencies.png)  
 
 
 #### Administration
 
-![administration](../media/administration.png)  
-![administration2](../media/administration2.png)  
-![administration3](../media/administration3.png)  
-![administration4](../media/administration4.png)  
-![administration5](../media/administration5.png)  
+![administration](administration.png)  
+![administration2](administration2.png)  
+![administration3](administration3.png)  
+![administration4](administration4.png)  
+![administration5](administration5.png)  
 
 
 # Data importer
@@ -392,7 +392,7 @@ volumes  :
 
 Go to your http://SERVER_IP:PORT(firefly3)/profile and create a new  access token and name it `Importer` or whatever suits you.
 
-![token](../media/token.png)  
+![token](token.png)  
 
 
 ## .fidi.env
@@ -418,18 +418,18 @@ docker compose up -d
 
 Go to http://SERVER_IP:PORT(data-importer). 
 
-![data_importer](../media/data_importer.png)
+![data_importer](data_importer.png)
 
 
 ## Import file
 
 Go to your bank and export your transactions to a csv file. 
 
-![data_importer2](../media/data_importer2.png)
+![data_importer2](data_importer2.png)
 
 You can create a configuration file later so that you do not have to keep changing the following information.
 
-![data_importer3](../media/data_importer3.png)
+![data_importer3](data_importer3.png)
 
 I mainly use the default settings. Only "Import tag" and "Date format" are different. But the settings really depend on how your bank exports your transactions. You have to test that a bit yourself. Every bank is different so it makes no sense to put here a reasonable config for all. See the link https://docs.firefly-iii.org/data-importer/usage/configure/#file-options for that while you're setting it up for yourself.
 
