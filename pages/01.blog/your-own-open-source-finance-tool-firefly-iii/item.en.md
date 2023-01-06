@@ -136,7 +136,7 @@ Straight forward...
 
 ## Getting started
 
-![Getting_started.png](getting_started.png)
+[![Getting_started.png](getting_started.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/registration.png)
 
 1. First of all, read the page ;) 
 2. Start with your private bank (Bankname - Your name)
