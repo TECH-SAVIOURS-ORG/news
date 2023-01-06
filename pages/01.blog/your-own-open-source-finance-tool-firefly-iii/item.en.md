@@ -158,7 +158,7 @@ Straight forward...
 
 Probably one of the most use budget is for *Groceries*. Give yourself a limit for your weekly/monthly groceries budget. 
 
-[![Budget - auto-budget.png](budget2.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/Budget%20-%20auto-budget.png)
+[![Budget - auto-budget.png](budget2.png)](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/budget2.png)
 
 The common question will be here which one do you want to choose in `Auto-budget`.
 
@@ -301,7 +301,7 @@ https://docs.firefly-iii.org/firefly-iii/concepts/accounts/#liabilities
 
 ### Classification (Categories, Tags & Groups)
 
-As already explained more under [Rules](#Rules), I won't go into more detail here.
+As already explained more under [Rules](#rules), I won't go into more detail here.
 
 
 https://docs.firefly-iii.org/firefly-iii/concepts/categories/  
@@ -368,7 +368,7 @@ https://docs.firefly-iii.org/data-importer/
 
 ## docker-compose.yml
 
-Add the following to the [docker-compose.yml](#example-docker-compose-file) file:
+Add the following to the [docker-compose.yml](#example-docker-compose-fi) file:
 ```
   fidi:
     image: fireflyiii/data-importer:latest
