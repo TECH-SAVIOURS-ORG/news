@@ -22,7 +22,7 @@ New year - new opportunities!
 Maybe firefly can help you to reach your goal(s) faster with an easier overview of your finances and your bad and good habits. 
 
 It's open source as usual and covers the privacy part as well.  
-You shouldn't use a [cloud](https://techsaviours.org/news/user/pages/01.blog/your-own-open-source-finance-tool-firefly-iii/there_is_no_cloud.jpg) at all if it's not your own, and especially when it comes to your finances. So it has privacy in mind as well.... a quote from the developer:
+You shouldn't use a [cloud](there_is_no_cloud.jpg) at all if it's not your own, and especially when it comes to your finances. So it has privacy in mind as well.... a quote from the developer:
 
 > It is completely self-hosted and isolated, and will never contact external servers until you explicitly tell it to.
 
