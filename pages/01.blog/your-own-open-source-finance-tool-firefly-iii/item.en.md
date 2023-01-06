@@ -13,7 +13,7 @@ taxonomy:
         - finance
 aura:
     author: dan
-media_order: 'firefly-iii-logo.png,there_is_no_cloud.jpg'
+media_order: 'firefly-iii-logo.png,there_is_no_cloud.jpg,registration.png'
 ---
 
 # Your own open source finance tool - Firefly III
@@ -131,7 +131,7 @@ https://docs.firefly-iii.org/
 ## Register a new account
 
 Straight forward...  
-![Registration.png](d7abb9575c78ee282f42cde304965184.png)
+![Registration.png](registration.png)
 
 
 ## Getting started
