@@ -11,6 +11,7 @@ taxonomy:
         - finanzen
 aura:
     author: dan
+media_order: 'firefly-iii-logo.png,there_is_no_cloud.jpg,registration.png,getting_started.png,navigation.png,dashboard.png,budget.png,bills.png,piggy_bank.png,piggy_bank2-1.png,creating_a_rule.png,asset_accounts.png,expenses.png,expenses2.png,revenue.png,liabilities.png,reports.png,export_data.png,profile.png,preferences.png,preferences2.png,preferences3.png,currencies.png,administration.png,administration2.png,administration3.png,administration4.png,administration5.png,token.png,data_importer.png,data_importer2.png,data_importer3.png,budget2.png'
 ---
 
 # Dein eigenes Open-Source-Finanztool - Firefly III
