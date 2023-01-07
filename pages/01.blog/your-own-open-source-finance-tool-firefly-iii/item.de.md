@@ -1,3 +1,18 @@
+---
+published: true
+date: '07-01-2023 00:38'
+taxonomy:
+    category:
+        - news
+    tag:
+        - firefly3
+        - tutorials
+        - opensource
+        - finanzen
+aura:
+    author: dan
+---
+
 # Dein eigenes Open-Source-Finanztool - Firefly III
 
 Neues Jahr - neue Möglichkeiten!  
