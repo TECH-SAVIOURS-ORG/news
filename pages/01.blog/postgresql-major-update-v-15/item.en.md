@@ -7,14 +7,15 @@ taxonomy:
     category:
         - news
     tag:
-        - postgresql
-        - 'TECH SAVIOURS'
         - matrix
+        - 'TECH SAVIOURS'
+        - postgresql
         - git
         - gitea
         - instance
 aura:
     author: dan
+media_order: techsaviours-black-white_background.png
 ---
 
 The next server update ("Wednesday around 5pm NZ time (8am UTC)") includes a few hours of downtime.
