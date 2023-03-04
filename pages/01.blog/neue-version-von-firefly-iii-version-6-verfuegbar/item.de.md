@@ -11,6 +11,7 @@ taxonomy:
         - finance
 aura:
     author: dan
+media_order: firefly3.webp
 ---
 
 Für Arch Linux Benutzer genügt es im Grunde, dieses [Skript](https://wiki.techsaviours.org/de/extras/firefly3#upgrade) auszuführen aber sicher vorsichtshalber zuerst deine [Datenbank](https://wiki.techsaviours.org/de/server/services/mariadb#datenbank_sichern).
