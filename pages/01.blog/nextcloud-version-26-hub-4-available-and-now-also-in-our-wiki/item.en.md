@@ -11,6 +11,7 @@ taxonomy:
         - arch
 aura:
     author: dan
+media_order: nextcloud-release-graphic-hub4-1024x576.webp
 ---
 
 Nextcloud for our wiki is basically ready since January/February but since `php-legacy` came in along we've decided to leave all the hassle for you and for us until Nextcloud supports PHP 8.2 which it does with version 26. 
