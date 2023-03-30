@@ -9,6 +9,7 @@ taxonomy:
     tag:
         - nextcloud
         - arch
+        - tutorials
 aura:
     author: dan
 media_order: nextcloud-release-graphic-hub4-1024x576.webp
