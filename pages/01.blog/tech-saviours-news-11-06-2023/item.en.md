@@ -7,12 +7,13 @@ taxonomy:
     category:
         - news
     tag:
-        - 'TECH SAVIOURS'
         - matrix
+        - 'TECH SAVIOURS'
         - wiki
         - searx/ng
 aura:
     author: dan
+media_order: techsaviours-black-white_background.png
 ---
 
 # Personal
