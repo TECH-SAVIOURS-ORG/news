@@ -7,11 +7,12 @@ taxonomy:
     category:
         - news
     tag:
+        - tutorials
         - wireguard
         - wiki
-        - tutorials
 aura:
     author: dan
+media_order: wireguard.png
 ---
 
 # WireGuard tutorial and our wiki
