@@ -15,7 +15,7 @@ aura:
 
 # Donation list
 
-Our wiki is finally ready to use, and I thought it would be great to create a donation list with all the listed tutorials and services we provide. For easier support of your favourite free and open source software or all of them ;)  
+Our wiki is finally ready to use, and I thought it would be great to create a [Donation list](https://wiki.techsaviours.org/en/extras/donation_list) with all the listed tutorials and services we provide. For easier support of your favourite free and open source software or all of them ;)  
 None of this would be possible and we would all be totally dependent on Google & Co.
 
 We follow the wiki structure and the services we provide. If a service/app shows up twice, like WireGuard under __server__ and __phone__, you will find the link under _Server/Desktop (Linux)_. It will not be listed twice.
