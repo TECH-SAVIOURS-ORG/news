@@ -11,11 +11,12 @@ taxonomy:
         - opensource
 aura:
     author: dan
+media_order: support-foss.png
 ---
 
 # Donation list
 
-Our wiki is finally ready to use, and I thought it would be great to create a [Donation list](https://wiki.techsaviours.org/en/extras/donation_list) with all the listed tutorials and services we provide. For easier support of your favourite free and open source software or all of them ;)  
+[Our wiki](https://wiki.techsaviours.org) is finally ready to use, and I thought it would be great to create a [Donation list](https://wiki.techsaviours.org/en/extras/donation_list) with all the listed tutorials and services we provide. For easier support of your favourite free and open source software or all of them ;)  
 None of this would be possible and we would all be totally dependent on Google & Co.
 
 We follow the wiki structure and the services we provide. If a service/app shows up twice, like WireGuard under [server](https://wiki.techsaviours.org/en/server) and [phone](https://wiki.techsaviours.org/en/phone), you will find the link under [Server/Desktop (Linux)](#Server/Desktop_(Linux)). It will not be listed twice.
