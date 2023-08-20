@@ -103,7 +103,7 @@ So here are all the donation links (if available) of everything we have here (ap
 - microG - https://liberapay.com/microG
 - Shelter - https://www.patreon.com/PeterCxy
 - Aurora Store - https://liberapay.com/whyorean
-- Icecraven -?
+- Iceraven -?
 - InviZible Pro - https://github.com/Gedsh/InviZible#donations
 - SeedVault - https://github.com/seedvault-app/seedvault/issues/219
 - Neo Backup - https://github.com/NeoApplications/Neo-Backup#donations
