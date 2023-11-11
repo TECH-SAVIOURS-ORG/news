@@ -13,6 +13,7 @@ taxonomy:
         - EU
 aura:
     author: dan
+media_order: facebook-ban.jpg
 ---
 
 The European Data Protection Board said Wednesday it had adopted a binding decision that will ban Facebook and Instagram owner Meta from using the personal data of users for targeted advertisements. 
