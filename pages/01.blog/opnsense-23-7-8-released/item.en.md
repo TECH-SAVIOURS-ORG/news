@@ -7,13 +7,14 @@ taxonomy:
     category:
         - news
     tag:
+        - wireguard
         - opnsense
         - release
-        - wireguard
         - GUI
         - changes
 aura:
     author: dan
+media_order: opnsense.png
 ---
 
 The configuration restore GUI has been improved in a number of ways due to
