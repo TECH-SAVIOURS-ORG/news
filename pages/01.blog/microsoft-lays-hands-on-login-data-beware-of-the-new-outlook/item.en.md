@@ -11,6 +11,7 @@ taxonomy:
         - outlook
 aura:
     author: dan
+media_order: microsoft-365.jpeg
 ---
 
 The free new Outlook replaces Mail in Windows, and later also the classic Outlook. It sends secret credentials to Microsoft servers.  
