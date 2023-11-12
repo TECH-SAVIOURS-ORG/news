@@ -12,6 +12,7 @@ taxonomy:
         - gitlab
 aura:
     author: dan
+media_order: arch_linux.jpg
 ---
 
 Our primary goal is to migrate bugs.archlinux.org to GitLab, focusing on 
