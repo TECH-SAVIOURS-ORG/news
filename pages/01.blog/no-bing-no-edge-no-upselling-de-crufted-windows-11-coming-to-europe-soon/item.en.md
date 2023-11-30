@@ -7,8 +7,8 @@ taxonomy:
     category:
         - news
     tag:
-        - windows
         - microsoft
+        - windows
 aura:
     author: dan
 ---
