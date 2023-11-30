@@ -21,13 +21,14 @@ Those living in the European Economic Area (EEA)—which includes the EU and add
 
 Microsoft writes in a blog post that many of these changes will be available in a preview update of Windows 11 (version 23H2) this month. Windows 10 will get similar changes "at a later date." A couple of changes affect all Windows 10 and 11 users:
 
-    Apps that are critical to Windows will be labeled with a "System" tag in Settings, the Start menu, and search results
-    Camera, Cortana, and Photos can now be uninstalled
+* Apps that are critical to Windows will be labeled with a "System" tag in Settings, the Start menu, and search results
+* Camera, Cortana, and Photos can now be uninstalled
 
 In the EEA, much more is on the way:
 
-    Bing's web search from the Start menu and the Edge browser can be uninstalled
-    Third parties can add to the Windows Widgets Board feeds
-    Third parties, like Google or DuckDuckGo, can provide the built-in web search results that Bing once had exclusively
-    Windows users who choose to sync their Microsoft accounts will have their pinned apps and preferences synced, seemingly keeping their EEA-enabled choices
-    Windows will now "always use customers' configured app default settings for link and file types"
+* Bing's web search from the Start menu and the Edge browser can be uninstalled
+* Third parties, like Google or DuckDuckGo, can provide the built-in web search results that Bing once had exclusively
+* Windows users who choose to sync their Microsoft accounts will have their pinned apps and preferences synced, seemingly keeping their EEA-enabled choices
+* Windows will now "always use customers' configured app default settings for link and file types"
+
+More at https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/
