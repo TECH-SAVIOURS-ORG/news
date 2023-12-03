@@ -7,10 +7,11 @@ taxonomy:
     category:
         - news
     tag:
-        - proxmox
         - release
+        - proxmox
 aura:
     author: dan
+media_order: proxmox.png
 ---
 
 We're very excited to announce the release 8.1 of Proxmox Virtual Environment! It's based on Debian 12.2 "Bookworm" but uses a newer Linux kernel 6.5, QEMU 8.1.2, and OpenZFS 2.2.0 ((with stable fixes backported)
