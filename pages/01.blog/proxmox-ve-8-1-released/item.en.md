@@ -28,7 +28,4 @@ Here is a selection of the highlights of Proxmox VE 8.1
 
 As always, we have included countless bugfixes and improvements on many places; see the release notes for all details.
 
-Release notes
-https://pve.proxmox.com/wiki/Roadmap
-
-More at https://forum.proxmox.com/threads/proxmox-ve-8-1-released.136959/
+https://www.proxmox.com/en/about/press-releases/proxmox-virtual-environment-8-1
