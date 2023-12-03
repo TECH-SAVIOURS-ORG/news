@@ -6,7 +6,6 @@ date: '03-12-2023 19:40'
 taxonomy:
     category:
         - news
-        - sidebar
     tag:
         - backup
         - release
