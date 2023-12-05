@@ -7,10 +7,11 @@ taxonomy:
     category:
         - news
     tag:
-        - openwrt
         - maintenance
+        - openwrt
 aura:
     author: dan
+media_order: openwrt.png
 ---
 
 > We’re currently investigating unusual activity on the OpenWrt Wiki server and decided to shut down the machine since we have reasons to suspect a security compromise.
