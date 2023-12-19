@@ -13,7 +13,7 @@ taxonomy:
         - push_notifications
 aura:
     author: dan
-media_order: google_apple.avif
+media_order: Apple-y-Google.webp
 ---
 
 WASHINGTON, Dec 6 (Reuters) - Unidentified governments are surveilling smartphone users via their apps' push notifications, a U.S. senator warned on Wednesday.
