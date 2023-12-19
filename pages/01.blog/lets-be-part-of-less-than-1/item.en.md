@@ -7,11 +7,12 @@ taxonomy:
     category:
         - news
     tag:
+        - donate
         - thunderbird
         - email
-        - donate
 aura:
     author: dan
+media_order: thunderbird_donation.png
 ---
 
 https://www.thunderbird.net/en-US/thunderbird/115.0/holidayeoy/
