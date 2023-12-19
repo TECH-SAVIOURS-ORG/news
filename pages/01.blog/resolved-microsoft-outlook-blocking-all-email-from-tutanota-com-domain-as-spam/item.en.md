@@ -14,6 +14,7 @@ taxonomy:
         - spam
 aura:
     author: dan
+media_order: stop_microsoft.png
 ---
 
 tuta.com/blog/outlook-falsely-marks-tutanota-emails-as-junk/
