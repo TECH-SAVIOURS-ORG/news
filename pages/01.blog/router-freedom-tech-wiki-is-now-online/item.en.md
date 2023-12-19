@@ -12,6 +12,7 @@ taxonomy:
         - wiki
 aura:
     author: dan
+media_order: router_freedom.jpg
 ---
 
 > In recent years we have focused on the policy and legal aspects of Router Freedom. Now, with the help of our Netherlands volunteer team, we are publishing the Router Freedom tech wiki, which provides information on the necessary steps you need to use and connect your own router. We need your help to get it printed!
