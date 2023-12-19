@@ -16,15 +16,6 @@ feed:
     description: 'Sample Blog Description'
     limit: 10
 pagination: true
-published: true
-date: '19-12-2023 05:49'
-taxonomy:
-    category:
-        - news
-    tag:
-        - opnsense
-        - release
-aura:
-    author: dan
+aura: {  }
 ---
 
