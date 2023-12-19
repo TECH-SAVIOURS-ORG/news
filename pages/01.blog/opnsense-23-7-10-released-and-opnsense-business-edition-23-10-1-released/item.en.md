@@ -11,6 +11,7 @@ taxonomy:
         - release
 aura:
     author: dan
+media_order: opnsense.png
 ---
 
 The updates went smoothly as always.  
