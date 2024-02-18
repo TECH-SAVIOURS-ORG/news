@@ -11,6 +11,7 @@ taxonomy:
         - tablet
 aura:
     author: dan
+media_order: IMG_20240218_135041.jpg
 ---
 
 I check out my old devices (laptops, phones...) from time to time to use them as a server, to give them away, or if they've really reached the end for good, they might find peace at the dump. But most of the time they actually find their way back into the drawer.
