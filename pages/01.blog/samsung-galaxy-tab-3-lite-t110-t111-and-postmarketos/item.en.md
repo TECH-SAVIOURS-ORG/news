@@ -5,7 +5,7 @@ published: true
 date: '18-02-2024 00:33'
 taxonomy:
     category:
-        - sidebar
+        - news
     tag:
         - postmarketos
         - tablet
