@@ -12,6 +12,7 @@ taxonomy:
         - school
 aura:
     author: dan
+media_order: google.webp
 ---
 
 The Danish data protection authority (Datatilsynet) has issued an injunction regarding student data being funneled to Google through the use of Chromebooks and Google Workspace services in the country's schools.
