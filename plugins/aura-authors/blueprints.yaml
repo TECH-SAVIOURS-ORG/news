@@ -79,10 +79,10 @@ form:
           size: large
           label: Matrix URL
           placeholder: 'https://chat.techsaviours.org/#/user/@user:techsaviours.org'
-        .person-gitea-url:
+        .person-code-fork-url:
           type: text
           size: large
-          label: Gitea URL
+          label: Git URL
           placeholder: 'https://git.techsaviours.org/user'
         .person-github-url:
           type: text
